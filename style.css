@@ -1,0 +1,19 @@
+body {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+   font-family:cursive;
+    background-color: aliceblue;
+}
+#heading{
+    background-color: aqua;
+}
+h3 {
+    font-size: 90px;
+    font-family:inherit;
+    color:blue;
+}
+h4 {
+    font-family: fantasy;
+    font-size: 50px;
+}
